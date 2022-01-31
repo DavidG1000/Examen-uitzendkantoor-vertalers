@@ -106,7 +106,7 @@ def verwijder(dictio):
             dictio.pop(naam)
             print("Vertaler " + naam + " is weg uit de lijst")
     else:
-        print("Wagennr. " + naam + " is niet in de lijst")
+        print("Naam  " + naam + " is niet in de lijst")
 
     main()
 
